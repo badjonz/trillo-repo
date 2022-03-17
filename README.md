@@ -1,3 +1,3 @@
 # Trillo-Jonas
 
-A project that teaches th use of flexbox
+A project that teaches the use of flexbox
